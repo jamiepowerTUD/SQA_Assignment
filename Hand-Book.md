@@ -16,10 +16,12 @@ is consistent and reliable throughout all Sprints.
   be consistent throughout the project. For example, if the value of a story point has been assigned 1 day,
   then a task which is assigned 3 story points would amount to 3 days of work. This allows for a clear
   understanding of relative levels of effort for a task compared to other tasks. <br>
+  
+  ![Decomposing Tasks](images/decompisition.jpg)
 
 
 - **Decompose Tasks**
-  ![Decomposing Tasks](images/decompisition.jpg)
+  
   <br>
   
   The task list contains all task that need to be completed in order to complete the user stories. Larger, high level tasks should be broken down 
@@ -63,8 +65,8 @@ Scrum being part of agile, uses a top down process and normally pushes teams to 
 
 - **Planning Poker**
 <br>
-	- Uses story points to estimate a tasks difficulty based on the fibonacci sequence ( 0,1,2,3,5,8,13,20,40 and 100) with each number representing a different level of complexity. 
- 	Team members use numbered cards to vote for an estimate of a task. Voting continues until all are agreed upon and unanimous after discussion. It is open to interpretation among teams 	so  many minor variations of the procedures are conducted depedning on the team or organisation. 
+	- Using story points to estimate a tasks difficulty based on the fibonacci sequence ( 0,1,2,3,5,8,13,20,40 and 100) with each number representing a different level of complexity. 
+ 	Team members should use numbered cards to vote for an estimate of a task. Voting continues until all are agreed upon and unanimous after discussion. It is open to interpretation among teams so  many minor variations of the procedures are conducted depending on your teams understadning. 
 
 	* Pros 
 	Good Technique to use when your team numbers are small and where there are 10 or less items to vote on
@@ -76,7 +78,7 @@ Scrum being part of agile, uses a top down process and normally pushes teams to 
 
 - **Sizing (T - shirt)**
 <br>
-	- Uses sizes as story points for the size of tasks. Gives a quick and rough estimate for how much work is expected and the sizes can be converted into numerical values at later stages. Decisions made through discussion amongst the team. 
+	- Using sizes as story points for the size estimates of tasks. Gives a quick and rough estimate for how much work is expected and the sizes can be converted into numerical values at later stages. Decisions should be made through discussion amongst the team. 
 	
 	* Pros 
 	Good for larger number of tasks
@@ -93,11 +95,11 @@ Scrum being part of agile, uses a top down process and normally pushes teams to 
 	Very good visualisation tool 
 	
 	*Cons 
-	Not necessarily an estimation techniqie, regarded more so as a decision making tool. 
+	Not necessarily an estimation technique, regarded more so as a decision making tool. 
 
 - **Bucket System**
 <br>
-	- Uses the same structure of planning poker, groups or teams place tasks in "buckets" after confirming with others. A divide and conquer phase is present after asssingning taks to buckets. Buckets can be changed and rearranged if necessary. 
+	- Uses the same structure of planning poker, your group or team place tasks in "buckets" that have a difficulty or another measurement attached to them, after confirming with others. A divide and conquer phase is present after assigning tasks to buckets. Buckets can be changed and rearranged if necessary. 
 	
 	* Pros
 	Faster than Planning Poker due to the divide and conquer phase 
@@ -110,7 +112,7 @@ Scrum being part of agile, uses a top down process and normally pushes teams to 
 
 - **Affinity Mapping**
 <br>
-	-  Tasks are grouped by effort similarity, this can be easy, medium, hard etc. Team members place tasks with their relative perceived effort level or size. These can be changed as the process continues and discuss as they go. Once teams are finished editing they can finalize the product backlog items in their positions. 
+	-  Tasks are grouped by effort similarity, this can be easy, medium, hard etc. Team members place to their tasks with their perceived relative effort level or size. These can be changed as the process continues and discussed as they go. Once your team are finished editing they can finalize the product backlog items in their positions. 
 	
 	* Pros
 	Good for smaller teams 
@@ -124,10 +126,28 @@ Scrum being part of agile, uses a top down process and normally pushes teams to 
 
 Story points are abstract estimates open to interpretation, usually inaccurate and not precise allowing a greater level of flexibility. As opposed to directly placing a specified value of time on a task where one team or individual can be held to a time frame whether its an estimate or not. 
 Estimating addresses external communication problems and management outside the team of expectations placed on them. 
-Estimating increases the likelihood of a project finishing at a time they say they will. 
+Estimating increases the likelihood of a project finishing at a time they say they will allowing for a large range of uncertainty in the process which will be driven out early on in the schedule. 
 
-However story points can lead to much confusion. Not every understands their value or what they may be interpreted as or how to use them properly. Lack of understanding and training is often the cause. Teams can often take a longer time to work out estimates as team members may be on different skill levels or understandings of certain tasks or effort levels required. Can be highly methodical, time consuming if not done efficiently and disgruntly team members if misunderstandings or disputes occur over estimations. 
 
+However story points can lead to much confusion. Not every understands their value or what they may be interpreted as or how to use them properly. Lack of understanding and training is often the cause. Teams can often take a longer time to work out estimates as team members may be on different skill levels or understandings of certain tasks or effort levels required. Can be highly methodical, time consuming if not done efficiently and disgruntled team members if misunderstandings or disputes occur over estimations. 
+
+##### How estimates can go wrong
+<br>
+
+Poor estimation and judgement is the main cause of project failure however there are many reasons for this. Some of which that can attribute are the following
+<br>
+
+1. **False analogies** : Estimates based off past experiences and past project data is considered to be more reliable than using modern techniques of judgement. This works for projects with identical traits and features. The problem occurs when one does not know what is relevant and what is not, it's easy to base estimates off a previous project which is similar in stature but differs in critical ways, leading to false judgement, over or underestimating and lost in time and possible increases in cost. <br>
+
+2. **False precision** : Estimates often get quoted as single numbers rather than a range or ranges. These estimates are incorrect as they ignore that uncertainties should be calculated by ranges rather than a set value. Single number estimates are almost certain to be incorrect 
+
+3. **Estimation by decree** : The estimation should be done judged by those who will be doing the work, often this principle is sacrificed for pre-determined time lines with the estimates drawn up by project leaders or members who have little involvement in the work. 
+
+4. **Subjectivity** : Where estimates are guessed off individuals own perceptions and not previous experience of facts. Usually a form of cognitive bias and justified by the individual(s)
+
+5. **Coordination neglect** : Generally an issue encountered by larger teams but occurs as projects consist of diverse tasks requiring careful integration. This often overlooked by project decision makers, this problem occurs in projects off all sizes but becomes significant in projects consisting of large numbers of dependent tasks and external dependencies. 
+
+6. **Too course grained** : Tasks that are large are usually made up of smaller tasks to be completed and merged in specific ways. As a result estimates should be based on the smaller taks at hand instead teams tend to often attempt to estimate the larger task as a whole directly. These estimates can often turn out to be incorrect as the smaller sub tasks get overlooked and coordination neglect can often occur as discussed in the previous point. 
  
 
 # (2) Code Standards 
@@ -305,9 +325,16 @@ as well as influence the frequency and manner in which future reviews will be co
 * [reqtest](https://reqtest.com/agile-blog/agile-estimation-techniques/)
 * [berteig](https://berteig.com/how-to-apply-agile/9-agile-estimation-techniques/)
 * [quora](https://www.quora.com/In-sprint-planning-what-are-the-pros-and-cons-of-using-story-points-hours-or-both-when-creating-estimates)
+<<<<<<< HEAD
+* [eight2late](https://eight2late.wordpress.com/2010/10/01/six-ways-in-which-project-estimates-go-wrong/)
+
+=======
 * [Importance of Coding standards](https://medium.com/@psengayire/the-importance-of-coding-standards-and-conventions-in-the-software-development-team-how-they-can-5d252556a05#:~:text=Coding%20standards%20are%20collections%20of,methods%20for%20a%20programming%20language.&text=Without%20the%20coding%20conventions%2C%20every,code%20in%20the%20near%20future.)
 * [How to enforce Coding Standards](https://www.perforce.com/blog/sca/how-enforce-coding-standards)
 * [Why code reviews matter](https://www.atlassian.com/agile/software-development/code-reviews)
 * [Healthy Code Review](https://www.smashingmagazine.com/2019/06/bringing-healthy-code-review-mindset/)
 * [Examples of Code Reviews](https://andreigridnev.medium.com/examples-of-code-review-checklists-and-guides-2dfed082a86d)
+>>>>>>> 52a62593edba5c279332037a052891a95de198d5
 
+
+ 
