@@ -70,4 +70,4 @@ Having completed this assignment there are a number of things we would have done
 We feel that we would have benefited as a group from a better understanding of git and its commands before undertaking the assignment as we encountered a number or difficulties with merging branches and pull requests. 
 
 Error handling was a problem for us and we would have liked to have more experience with merge conflicts and other issues encountered in branching. 
-Division of workload became a problem as we ended up having 3 people on 1 topic at times which became challenging in terms of information availability and overlap of work. 
+Division of workload became a problem as we ended up having 3 people on 1 topic at times which became challenging in terms of information availability and overlap of work. Better communication amongst members working on the same topics would be beneficial for the next project. 
