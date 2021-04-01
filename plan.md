@@ -61,3 +61,13 @@ is submitted. We will also conduct a reflection on the project and discuss
 what the team would have done differently as well as any issues the team 
 faced during the process.
 <br>
+
+
+
+### Group 9 Reflection 
+
+Having completed this assignment there are a number of things we would have done differently. 
+We feel that we would have benefited as a group from a better understanding of git and its commands before undertaking the assignment as we encountered a number or difficulties with merging branches and pull requests. 
+
+Error handling was a problem for us and we would have liked to have more experience with merge conflicts and other issues encountered in branching. 
+Division of workload became a problem as we ended up having 3 people on 1 topic at times which became challenging in terms of information availability and overlap of work. 
