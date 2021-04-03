@@ -265,6 +265,15 @@ review can embarrass and intimidate developers and cause more harm than good. It
 important that code reviews are conducted effectively so that everyone involved should 
 feel a sense of achievement from the process.
 
+### Why should your team use code reviewing?
+
+There are a number of benefits that can be gained from using code reviews inside your software development project.
+
+* **Ensuring code quality** - Examining the code and making sure that there are no unfulfilled or poorly working features.
+* **Improve code performance** - A piece of code may be working as intended, however can also compromise performance and cause occasional runtime errors. Code reviewing can resolve these issues.
+* **Maintaining consistent design** - Several developers may contribute to the same section. The review process helps to identify any possible differences and keep the project cohesive and easily understandable.
+* **Learning potential** Throughout the code review, knowledge may be shared on best practices and how aspects can be improved. New developers can gain valuable knowledge that aids them going forward to future projects.
+
 ### Conducting a code review 
 
 There are various steps that can be taken to ensure an open-minded and 
@@ -287,8 +296,8 @@ is to help others improve and to share knowledge.
 
 ![Gitflow](images/deliverable.jpg)
 
-Reviews are not just to foster developer improvement and growth,code reviews are also
-a method of examining the progress of the product's development.Managers can identify 
+Reviews are not just to foster developer improvement and growth, code reviews are also
+a method of examining the progress of the product's development. Managers can identify 
 the whether certain features are falling behind schedule or making excellent progress, it can 
 tell the team whether they need to realign their focus or there are issues which need to be 
 dealt with immediately. 
@@ -299,7 +308,7 @@ Example of metrics that can be used in review's to assess progress
 
 <br>
 
-* Error's,bugs,flawed logic and code which could potentially fail 
+* Error's, bugs, flawed logic and code which could potentially fail 
 * The codebase compared to the requirements set out by the owner 
 * Whether the code aligns with the standards set by the team
 * Have dependencies become more complex or demanding? 
@@ -313,10 +322,10 @@ as well as influence the frequency and manner in which future reviews will be co
 
 **Sources**
 <br>
-* [geeksforgeeks](https://www.geeksforgeeks.org/coding-standards-and-guidelines/)
-* [medium](https://medium.com/@psengayire/the-importance-of-coding-standards-and-conventions-in-the-software-development-team-how-they-can-5d252556a05)
-* [medium(2)](https://medium.com/swlh/be-an-effective-and-efficient-programmer-aabde20c673e)
-* [linkedin](https://www.linkedin.com/pulse/rule-30-when-your-method-class-packages-too-big-maaz-rehman/)
+* [Coding standards and guidelines](https://www.geeksforgeeks.org/coding-standards-and-guidelines/)
+* [Code standards in soft dev](https://medium.com/@psengayire/the-importance-of-coding-standards-and-conventions-in-the-software-development-team-how-they-can-5d252556a05)
+* [Code standards](https://medium.com/swlh/be-an-effective-and-efficient-programmer-aabde20c673e)
+* [Rule of 30](https://www.linkedin.com/pulse/rule-30-when-your-method-class-packages-too-big-maaz-rehman/)
 * [coursehero](https://www.coursehero.com/file/p15us6sn/Advantages-of-following-coding-standard-and-disadvantages-of-not-following-it/)
 * [answers](https://www.answers.com/Q/What_are_the_advantage_and_disadvantage_of_coding_standards)
 * [codingstandards](https://www.slideshare.net/ifourakash/coding-standards-and-best-practices-36493912)
@@ -325,16 +334,14 @@ as well as influence the frequency and manner in which future reviews will be co
 * [reqtest](https://reqtest.com/agile-blog/agile-estimation-techniques/)
 * [berteig](https://berteig.com/how-to-apply-agile/9-agile-estimation-techniques/)
 * [quora](https://www.quora.com/In-sprint-planning-what-are-the-pros-and-cons-of-using-story-points-hours-or-both-when-creating-estimates)
-<<<<<<< HEAD
 * [eight2late](https://eight2late.wordpress.com/2010/10/01/six-ways-in-which-project-estimates-go-wrong/)
-
-=======
 * [Importance of Coding standards](https://medium.com/@psengayire/the-importance-of-coding-standards-and-conventions-in-the-software-development-team-how-they-can-5d252556a05#:~:text=Coding%20standards%20are%20collections%20of,methods%20for%20a%20programming%20language.&text=Without%20the%20coding%20conventions%2C%20every,code%20in%20the%20near%20future.)
 * [How to enforce Coding Standards](https://www.perforce.com/blog/sca/how-enforce-coding-standards)
 * [Why code reviews matter](https://www.atlassian.com/agile/software-development/code-reviews)
 * [Healthy Code Review](https://www.smashingmagazine.com/2019/06/bringing-healthy-code-review-mindset/)
 * [Examples of Code Reviews](https://andreigridnev.medium.com/examples-of-code-review-checklists-and-guides-2dfed082a86d)
->>>>>>> 52a62593edba5c279332037a052891a95de198d5
+* [Why code reviews are important](https://www.hexacta.com/5-whys-code-review-is-important-in-any-software-development/)
+* [Code review importance](https://www.brightspot.com/products/developer-life-5-reasons-why-the-code-review-process-is-critical-for-developers)
+52a62593edba5c279332037a052891a95de198d5
 
 
- 
