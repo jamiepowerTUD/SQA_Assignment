@@ -147,7 +147,7 @@ Poor estimation and judgement is the main cause of project failure however there
 
 5. **Coordination neglect** : Generally an issue encountered by larger teams but occurs as projects consist of diverse tasks requiring careful integration. This often overlooked by project decision makers, this problem occurs in projects off all sizes but becomes significant in projects consisting of large numbers of dependent tasks and external dependencies. 
 
-6. **Too course grained** : Tasks that are large are usually made up of smaller tasks to be completed and merged in specific ways. As a result estimates should be based on the smaller taks at hand instead teams tend to often attempt to estimate the larger task as a whole directly. These estimates can often turn out to be incorrect as the smaller sub tasks get overlooked and coordination neglect can often occur as discussed in the previous point. 
+6. **Too course grained** : Tasks that are large are usually made up of smaller tasks to be completed and merged in specific ways. As a result estimates should be based on the smaller task's at hand instead teams tend to often attempt to estimate the larger task as a whole directly. These estimates can often turn out to be incorrect as the smaller sub tasks get overlooked and coordination neglect can often occur as discussed in the previous point. 
  
 
 # Code Standards 
