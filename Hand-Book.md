@@ -1,4 +1,4 @@
-# (1) Task Estimation In Scrum
+# Task Estimation In Scrum
 ![Task Estimation](images/taskestimation.png)<br>
 <br>
 Task estimation is an essential part of any scrum process. Team members must estimate
@@ -150,7 +150,7 @@ Poor estimation and judgement is the main cause of project failure however there
 6. **Too course grained** : Tasks that are large are usually made up of smaller tasks to be completed and merged in specific ways. As a result estimates should be based on the smaller taks at hand instead teams tend to often attempt to estimate the larger task as a whole directly. These estimates can often turn out to be incorrect as the smaller sub tasks get overlooked and coordination neglect can often occur as discussed in the previous point. 
  
 
-# (2) Code Standards 
+# Code Standards 
 
 ![Gitflow](images/Coding-Standards.jpg)
 
@@ -253,7 +253,7 @@ _Negatives_
 
 
 
-# (3) Code Reviews
+# Code Reviews
 
 ![Gitflow](images/peopleReviewing.jpg)
 
@@ -294,7 +294,7 @@ is to help others improve and to share knowledge.
 
 ## Deliverables 
 
-![Gitflow](images/deliverable.jpg)
+![deliverables](images/deliverable.jpg)
 
 Reviews are not just to foster developer improvement and growth, code reviews are also
 a method of examining the progress of the product's development. Managers can identify 
@@ -342,6 +342,6 @@ as well as influence the frequency and manner in which future reviews will be co
 * [Examples of Code Reviews](https://andreigridnev.medium.com/examples-of-code-review-checklists-and-guides-2dfed082a86d)
 * [Why code reviews are important](https://www.hexacta.com/5-whys-code-review-is-important-in-any-software-development/)
 * [Code review importance](https://www.brightspot.com/products/developer-life-5-reasons-why-the-code-review-process-is-critical-for-developers)
-52a62593edba5c279332037a052891a95de198d5
+
 
 
